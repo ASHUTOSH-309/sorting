@@ -1,0 +1,1 @@
+hey i am uploading my first file using add file option on git website. have already tried how to upload them using terminal,following some command sequence now just using some short cut way
