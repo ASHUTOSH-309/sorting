@@ -1,0 +1,1 @@
+whenever you do a git commit, terminal only looks for the file that are in staged area,rest all which  are untracked are just ignored`
