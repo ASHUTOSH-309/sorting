@@ -1,2 +1,0 @@
-in this particular file i will write the code to find minimum and maximum of n numbers with less complexity
-
